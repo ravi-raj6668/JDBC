@@ -28,7 +28,7 @@ public class JdbcUpdate {
 
 			// call helper method to display the employee's info
 			System.out.println("BEFORE THE UPDATE...");
-			displayEmployee(con, "John", "Doe");
+			displayEmployee(con, "Wel", "Doe");
 
 			// UPDATE the employee
 			System.out.println("\nEXECUTING THE UPDATE FOR : John Doe\n");
